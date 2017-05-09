@@ -1,0 +1,12 @@
+rs:
+  dbname:   p
+  host:     p
+  port:     5439
+  user:     r
+  password: p
+pg:
+  dbname:   k
+  host:     k
+  port:     5432
+  user:     r
+  password: p
